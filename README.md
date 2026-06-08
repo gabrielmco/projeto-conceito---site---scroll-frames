@@ -1,5 +1,8 @@
 # Doze Studio - Interactive Canvas Animation
 
+![Hero Screenshot](hero-screenshot.png)
+
+
 A sophisticated, frame-by-frame animation system for the Doze Studio website, featuring scroll-triggered animations and professional-grade JavaScript architecture.
 
 ## 🚀 Project Overview
